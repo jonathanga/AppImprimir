@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppImprimir</string>
+    <string name="txtEstatus">Estado Actual:</string>
+    <string name="txtLabel">Texto a Imprimir</string>
+    <string name="hint1">Este texto se imprimira</string>
+    <string name="btn1">Conectar</string>
+    <string name="btn2">Desconectar</string>
+    <string name="btn3">Imprimir</string>
+</resources>
